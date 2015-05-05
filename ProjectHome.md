@@ -1,0 +1,1 @@
+converts YUV4MPEG2 (y4m) file format to YUV (4:2:0)
